@@ -1,0 +1,13 @@
+git init
+
+新建readme.md
+
+git add .
+
+git config --global user.email "605023@qq.com"
+
+git config --global user.name "whsubway"
+
+git remote add <远程项目名称> <远程项目的url>
+
+git push <远程项目名称>
